@@ -25,7 +25,7 @@ This project is a full-stack AI-powered chatbot that interacts with business own
 ### 1️⃣ Clone the Repository
 
 
-git clone https://github.com/your-username/ai-ads-chatbot.git
+git clone https://github.com/Agnish77/AI-ADS-SETUP
 cd ai-ads-chatbot
 
 
@@ -61,8 +61,11 @@ Create a `.env` file in the **backend** directory with:
 
 
 HUGGINGFACE_API_KEY=your_huggingface_token
+
 GOOGLE_ADS_CLIENT_ID=your_client_id
+
 GOOGLE_ADS_CLIENT_SECRET=your_client_secret
+
 GOOGLE_ADS_DEVELOPER_TOKEN=your_developer_token
 
 
